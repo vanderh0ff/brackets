@@ -1,3 +1,4 @@
+MOAR MOAR MOAR
 Welcome to Brackets! [![Build Status](https://travis-ci.org/adobe/brackets.png?branch=master)](https://travis-ci.org/adobe/brackets)
 -------------------
 
